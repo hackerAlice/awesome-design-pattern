@@ -6,7 +6,7 @@
 
 ### 1.1 单一职责原则
 
-[单一职责原则](./里式替换原则)(Single Responsibility Principle, SRP)要求一个接口或类只有一个原因引起变化，
+[单一职责原则](#)(Single Responsibility Principle, SRP)要求一个接口或类只有一个原因引起变化，
 也就是一个接口或类只有一个原则，它就负责一件事。
 
 单一职责原则的好处：
@@ -20,7 +20,7 @@
 
 ### 1.2 里式替换原则
 
-里式替换原则(Liskov Substitution Principle, LSP)的一种定义是：所有使用父类对象的地方都可以用子类对象来替换，反之则不可以。
+[里式替换原则](./里式替换原则)(Liskov Substitution Principle, LSP)的一种定义是：所有使用父类对象的地方都可以用子类对象来替换，反之则不可以。
 
 
 ### 1.3 依赖倒置原则
