@@ -6,7 +6,7 @@
 
 ### 1.1 单一职责原则
 
-![单一职责原则](./里式替换原则)(Single Responsibility Principle, SRP)要求一个接口或类只有一个原因引起变化，
+[单一职责原则](./里式替换原则)(Single Responsibility Principle, SRP)要求一个接口或类只有一个原因引起变化，
 也就是一个接口或类只有一个原则，它就负责一件事。
 
 单一职责原则的好处：
